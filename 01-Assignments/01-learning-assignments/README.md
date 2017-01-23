@@ -1,4 +1,14 @@
-# Learning assignments
+# Learning Objectives
+
+This page contains a series of assignments that candidates must complete before the internship. There will be an assessment to evaluate if candidates have completed the assignments. This assessment involves:
+* Interns showing their code in github
+* The code must run on candiates' machine.
+* Interns will conduct a demo to create a Spring Boot application from scratch (using start.spring.io) towriting code to unit test (with JUnit) and continuous integration (with Jenkins). Interns will be evaluated on the fluency in which this demo is presented.
+* Interns during the demo will explain concepts used including how agile practices are applied.
+* Doing the assignments below and being fluent in it will help candidates do well in the assessment.
+* Explain what their project is about.
+
+# Learning Assignments
 
 These are a list of assignments for interns to learn and get familiar with the required technology for the work.
 
