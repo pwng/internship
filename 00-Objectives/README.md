@@ -14,17 +14,17 @@ In terms of value to the company,
 The internship process is as follows:
 
 1. Before internship begins:
-  * Company representative (trainer) give training to interns.
-  * Interns have the responsibility to make sure they learn.
+  * Company representative (trainer) give training to candidates.
+  * Candidates have the responsibility to make sure they learn.
 
 2. Assessment
-  * Interns take an assessment:
+  * Candidates take an assessment:
     * Demonstrate ability to grasp and applied what they have learned during training （培训知识点）.
       * Learning objectives are available in [here](https://github.com/pwng/internship/blob/master/01-Assignments/01-learning-assignments/README.md)
     * Demonstrate learning ability, logical thinking (理解能力，快速学习)
     * Demonstrate cultural fit and professionalism (文化符合度，专业)
-  * Interns who pass the assessment will be accepted as interns.
-  * Interns who do no pass the assessment will have to prepare for another assessment.
+  * Candidates who pass the assessment will be accepted as interns.
+  * Candidates who do no pass the assessment will have to prepare for another assessment.
 
 3. Internship
   * Interns will start work on the assigned project.
