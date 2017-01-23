@@ -30,6 +30,7 @@ The internship process is as follows:
   * Interns will start work on the assigned project.
   * Company will give interns details of the project.
   * Interns will periodically demonstrate what they have produced to the company assessors.
+  * During the internship, interns will keep a log of their daily activities (project objectives, progress, what they did and what they have learnt)
 
 4. Final Report
   * At the end of the internship, the intern will produce a final report and presentation for the company assessors.
