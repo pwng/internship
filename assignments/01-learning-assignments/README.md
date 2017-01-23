@@ -9,7 +9,7 @@ These are a list of assignments for interns to learn and get familiar with the r
     * Able to import Spring Maven project into IDE
     * Able to use @SpringBootApplication, @RestController, @RequestMapping annotations
     * Able to compile and run Spring Boot application from within IDE and command line
-
+    * Able to use git to push and pull code to Github
 
 2. Complete a simple Spring Boot data-jpa exercise. 
   * Objective: to understand how to persist data using JPA
