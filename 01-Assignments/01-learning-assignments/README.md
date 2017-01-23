@@ -51,6 +51,8 @@ These are a list of assignments for interns to learn and get familiar with the r
   * Skills:
     * Able to use ReactJS babel scripts
   * Refer to https://spring.io/guides/tutorials/react-and-spring-data-rest/
+  * https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
+  * Refer to https://github.com/chrisharrington/react-todo
 
 
 6. Complete a simple Spring Boot REST testing exercise. 
