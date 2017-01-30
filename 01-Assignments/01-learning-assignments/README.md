@@ -60,6 +60,8 @@ These are a list of assignments for interns to learn and get familiar with the r
   * Skills:
     * Able to test REST applications
     * Able to generate JUnit test reports
+  * Refer to https://spring.io/guides/tutorials/bookmarks/ for complete REST application with Spring and test.
+  * Refer to https://github.com/spring-guides/tut-bookmarks
   * Refer to https://github.com/pwng/taskit/tree/master/src/test/java/com/ngpanwei/taskit
 
 
