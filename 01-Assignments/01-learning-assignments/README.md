@@ -53,6 +53,9 @@ These are a list of assignments for interns to learn and get familiar with the r
   * Refer to https://spring.io/guides/tutorials/react-and-spring-data-rest/
   * https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
   * Refer to https://github.com/chrisharrington/react-todo
+  * This is quite a good introductory set of exercises to get to know react
+    * Refer to http://coenraets.org/blog/2014/12/sample-mobile-application-with-react-and-cordova/
+    * Refer to http://coenraets.org/blog/2014/12/employee-directory-sample-app-with-react-and-node-js/
 
 
 6. Complete a simple Spring Boot REST testing exercise. 
